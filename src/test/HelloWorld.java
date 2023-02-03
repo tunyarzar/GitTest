@@ -6,6 +6,8 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello Git");
+		
+		System.out.println("Test vi Editor");
 	}
 
 }
